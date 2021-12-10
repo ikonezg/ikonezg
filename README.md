@@ -8,6 +8,9 @@ Now my technology stack is based on JavaScript / TypeScript programming language
 I have worked with Nx.monorepo, Ionic, .NET Core, C#, Node.js, Express.js NestJs and GO. I love brainstorming and working in creative teams. 
 If I would describe myself, I would say "I'm a project-driven team player developer".
 
+### CV 
+[here](ikonezg/README.md)
+
 ### Stack: 
 - :heart: Angular 
 - :purple_heart: Angular Material
