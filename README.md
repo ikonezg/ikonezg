@@ -9,7 +9,7 @@ I have worked with Nx.monorepo, Ionic, .NET Core, C#, Node.js, Express.js NestJs
 If I would describe myself, I would say "I'm a project-driven team player developer".
 
 ### CV 
-[Marko_Berger-Eng](ikonezg/Marko_Berger-Eng.pdf)
+[Marko_Berger-Eng](Marko_Berger-Eng.pdf)
 
 ### Stack: 
 - :heart: Angular 
